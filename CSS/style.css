@@ -1,0 +1,37 @@
+.nav-link{
+    color: silver;
+}
+
+.img-slide{
+    height: 100vh;
+    width: 100vw;
+    overflow:hidden;
+}
+
+.bg-hitam{
+    background-color: rgb(0,0,0);
+}
+
+.mx7{
+    margin-left: 180px ;
+    margin-right: 180px;
+}
+
+.profile{
+    padding-top: 20px;
+}
+.certif{
+    margin-top: -10px;
+}
+.ITE{
+    height: 73vh;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: white;
+}
